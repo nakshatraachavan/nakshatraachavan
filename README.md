@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Nakshatraa Chavan  <br><br>🎓 Final-year B.Tech IT student at VJTI, Mumbai  <br>💻 Passionate about Software Development & Web Technologies  <br>🚀 Skilled in **React.js, Node.js, MongoDB, C++**
+
+
 # 👩‍💻 Who am I?  
 
 ```cpp
